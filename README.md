@@ -383,6 +383,7 @@ PROVIDERS = {
 ---
 
 ## Related Resources
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 Looking for something specific? These searches might help:
 
